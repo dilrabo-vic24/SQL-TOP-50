@@ -26,6 +26,3 @@ from (
 	from Logs
 ) as subquery
 where num = next1 and next1 = next2;
-
-
-
